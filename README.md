@@ -1,5 +1,5 @@
 # JP Morgan Quant Challenge - SiliconLobby [Arkadeep & Hiten]
-
+36-hour competition that exposed participants to machine learning, derivative modelling, and how to apply their knowledge to the real-life problems faced by the Quantitative Research and Data Analytics teams on a day to day basis.
 ## Question 1 -  Flight Price Predictor
 ### Predictive Modelling with Machine Learning
 Optimal timing for airline ticket purchasing from the consumer’s perspective is challenging principally because buyers have insufficient information for reasoning about future price movements. In this challenge we simulate various models for computing the best possible expected future prices by constructing new features from the existing features and also introducing new features to make our model more robust.
